@@ -206,7 +206,7 @@ Hero
 }
 @media screen and (min-width: 768px) {
   .hero {
-    background: linear-gradient(rgba(20, 20, 20, 0.7), rgba(0, 0, 0, 0.7)),
+    background: linear-gradient(rgba(8, 227, 247, 0.7), rgba(0, 0, 0, 0.7)),
       url('./images/main.jpeg') center/cover no-repeat;
   }
   .hero-banner {
